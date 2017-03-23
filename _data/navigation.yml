@@ -53,6 +53,7 @@ community:
       - title: FAQs
       - title: Chat room
       - title: Roadmap
+        url: /community/roadmap
 
 resources:
   - title: Resources
@@ -96,14 +97,17 @@ authentication:
         url: /documentation/security/authentication/oauth/ssl-server-termination
       - title: SSL Load Balancer Termination
         url: /documentation/security/authentication/oauth/ssl-load-balancer-termination
+      - title: Troubleshooting
   - title: SAML 2.0
     children:
       - title: Pre-built Images
       - title: SSL Terminated at Server
       - title: SSL Terminated at Load Balancer
+      - title: Troubleshooting
   - title: LDAP
     children:
       - title: Pre-built Images
       - title: SSL Terminated at Server
       - title: SSL Terminated at Load Balancer
+      - title: Troubleshooting
   - title: X509

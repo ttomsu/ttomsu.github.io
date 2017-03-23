@@ -247,7 +247,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: documentation
+      path: ""
       type: pages
     values:
       layout: single
