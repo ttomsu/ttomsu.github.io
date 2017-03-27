@@ -45,9 +45,9 @@ For convenience, several providers are already pre-configured. As an administrat
 
 Provider | Profile | Config File | Provider-Specific Docs
 --- | --- | ---
-Google | `googleOAuth` | `/opt/spinnaker/config/gate-googleOAuth.yml` | TODO
-GitHub | `githubOAuth` | `/opt/spinnaker/config/gate-githubOAuth.yml` | TODO
-Azure | `azureOAuth` | `/opt/spinnaker/config/gate-azureOAuth.yml` | TODO
+Google | `googleOAuth` | `/opt/spinnaker/config/gate-googleOAuth.yml` | [Google Apps](./google/)
+GitHub | `githubOAuth` | `/opt/spinnaker/config/gate-githubOAuth.yml` | [GitHub Teams](./github/)
+Azure | `azureOAuth` | `/opt/spinnaker/config/gate-azureOAuth.yml` | [Azure](./azure/)
 
 Activate by setting the environmental variable `SPRING_PROFILES_ACTIVE=local,<profile>`
 
