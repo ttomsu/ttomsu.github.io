@@ -6,7 +6,7 @@ sidebar:
 
 The all-in-one, prebuilt VM images tunnel all of Gate's traffic through Deck's Apache instance. This was done as a convenience for those just trying out Spinnaker, and has caused numerous headaches for users trying to work around it.
 
-The giveaway is the presense of `/gate` at the beginngin of the URL path in network traffic. For example, if you see calls like `http://deck.url:9000/gate/applications` or `http://deck.url:9000/gate/serverGroups`, you are most likely using a pre-built VM image where Gate traffic gets routed through Apache's [ProxyPass](https://httpd.apache.org/docs/2.4/mod/mod_proxy.html#proxypass).
+The giveaway is the presense of `/gate` at the beginning of the URL path in network traffic. For example, if you see calls like `http://deck.url:9000/gate/applications` or `http://deck.url:9000/gate/serverGroups`, you are most likely using a pre-built VM image where Gate traffic gets routed through Apache's [ProxyPass](https://httpd.apache.org/docs/2.4/mod/mod_proxy.html#proxypass).
 
 Since Gate doesn't know about being fronted by an Apache instance, we must explicitly set the `redirect_uri` in the initial request to the OAuth provider. Add the following to your configuration:
 ```
