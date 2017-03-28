@@ -1,5 +1,5 @@
 ---
-title:  "OAuth 2.0"
+title:  "OAuth 3.0"
 sidebar:
   nav: authentication
 ---
