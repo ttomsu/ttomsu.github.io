@@ -1,0 +1,10 @@
+travis:
+  name: Travis Tomsu
+  avatar: /assets/images/travis-husky.jpg
+  links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github-square"
+    url: "https://github.com/ttomsu"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/travis_tomsu"
