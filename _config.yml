@@ -81,7 +81,7 @@ comments:
 
 staticman:
   branch: "master"
-  endpoint: https://api.staticman.net/v3/entry/github/ttomsu/ttomsu.github.io/master/comments
+  endpoint: https://api.staticman.net/v3/entry/github/
 
 defaults:
 # _posts
