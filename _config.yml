@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Everybody Needs a Fishbowl
+logo: /assets/images/fishbowl.png
 email: travis.tomsu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a regular, everyday normal guy.
@@ -21,6 +22,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.travistomsu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: travis_tomsu
 github_username:  ttomsu
+repository: ttomsu/ttomsu.github.io
+locale: en-US
+title_separator: "-"
 
 author:
   name: Travis Tomsu
@@ -34,31 +38,34 @@ author:
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 plugins:
+  - jekyll-archives
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
 
+search: true
+
 analytics:
   provider: google-gtag
   google:
-    tracking_id: "UA-539234-2"
+    tracking_id: "UA-64309090-1"
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
-
 minimal_mistakes_skin: dirt
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- CNAME
+- favicon.xcf
+
+og_image: /assets/images/fishbowl.png
 
 defaults:
 # _posts
