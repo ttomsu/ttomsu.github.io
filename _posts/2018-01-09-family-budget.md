@@ -2,6 +2,7 @@
 title: Tomsu Family Budgeting Methodology
 date: 2018-01-08
 redirect_from: /2018/01/09/family-budget/
+toc: true
 ---
 
 I've been interested in personal finance for about 10 years now - ever since my

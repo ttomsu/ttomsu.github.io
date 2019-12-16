@@ -2,6 +2,7 @@
 title: Atomic Habits Book Review
 date: 2019-04-24
 redirect_from: /2019/04/24/atomic-habits-book-review/
+toc: true
 ---
 
 James Clear has fast become one of my favorite writers. I signed up for his

@@ -11,8 +11,7 @@ of research into how to lose weight on a few of my influential sites at the time
 better shape, and specifically a program called [Starting Strength](http://startingstrength.com/).
 
 The Starting Strength program is a barbell-only program that emphasizes only
-adding 5 lbs more than your previous lift. Squat 135 last time? Today, squat
-140. Easy enough, right?
+adding 5 lbs more than your previous lift. Squat 135 last time? Today, squat 140. Easy enough, right?
 
 I've heard many things over the years about people injuring themselves at the
 gym, and I wanted to ensure I wasn't going to be included in that statistic.
