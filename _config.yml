@@ -76,12 +76,12 @@ exclude:
 
 og_image: /assets/images/fishbowl.png
 
-comments:
-  provider: "staticman_v2"
+# comments:
+#   provider: "staticman_v2"
 
-staticman:
-  branch: "master"
-  endpoint: https://api.staticman.net/v3/entry/github/
+# staticman:
+#   branch: "master"
+#   endpoint: https://api.staticman.net/v3/entry/github/
 
 defaults:
 # _posts
