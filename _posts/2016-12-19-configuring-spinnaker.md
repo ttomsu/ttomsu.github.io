@@ -1,7 +1,7 @@
 ---
 title: "Configuring Spinnaker"
 date: 2016-12-09
-redirect_from: /2016/12/09/configuring-spinnaker/
+redirect_from: /2016/12/19/configuring-spinnaker/
 ---
 
 We handle numerous questions every day in the [Spinnaker Slack channel](
