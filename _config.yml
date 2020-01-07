@@ -34,6 +34,7 @@ author:
   avatar: "/assets/images/travis-husky.jpg"
   twitter: travis_tomsu
   github: ttomsu
+  email: travis.tomsu@gmail.com
 
 # Build settings
 markdown: kramdown
