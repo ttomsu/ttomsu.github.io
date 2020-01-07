@@ -2,6 +2,7 @@
 title: "Book Review: Never Split the Difference"
 date: 2018-01-29
 redirect_from: /2018/01/29/book-review-never-split-the-difference/
+tags: book-review
 ---
 
 [Never Split the Difference](http://amzn.to/2GwlZJy) is a book written by an

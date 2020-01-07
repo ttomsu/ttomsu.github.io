@@ -2,6 +2,7 @@
 title: "An Introduction To Spinnaker: Under the Hood"
 date:   2016-12-09
 redirect_from: /2016/12/08/an-introduction-to-spinnaker-under-the-hood/
+tags: spinnaker
 ---
 
 I've been a part of the [Spinnaker](http://spinnaker.io/)  team for about 18

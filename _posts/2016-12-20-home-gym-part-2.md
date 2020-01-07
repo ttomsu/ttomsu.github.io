@@ -2,6 +2,7 @@
 title: "Home Gym: Part 2"
 date: 2016-12-20
 redirect_from: /2016/12/20/home-gym-part-2/
+tags: home-gym
 ---
 
 In [Part 1](/2016/12/15/home-gym-part-1.html), I showed

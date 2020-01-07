@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Everybody Needs a Fishbowl
 logo: /assets/images/fishbowl.png
+name: Travis Tomsu
 email: travis.tomsu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a regular, everyday normal guy.
@@ -45,6 +46,10 @@ plugins:
 - jekyll-sitemap
 
 search: true
+
+tag_archive:
+  type: liquid
+  path: /tags/
 
 analytics:
   provider: google-gtag
@@ -77,13 +82,6 @@ exclude:
 
 og_image: /assets/images/fishbowl.png
 
-# comments:
-#   provider: "staticman_v2"
-
-# staticman:
-#   branch: "master"
-#   endpoint: https://api.staticman.net/v3/entry/github/
-
 defaults:
 # _posts
 - scope:
@@ -92,4 +90,11 @@ defaults:
   values:
     layout: single
     author_profile: true
-    comments: true
+    related: true
+# _pages
+- scope:
+    path: "_pages"
+    type: pages
+  values:
+    layout: single
+    author_profile: true

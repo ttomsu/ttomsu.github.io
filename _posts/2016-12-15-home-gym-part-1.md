@@ -2,6 +2,7 @@
 title: "Home Gym: Part 1"
 date: 2016-12-15
 redirect_from: /2016/12/15/home-gym-part-1/
+tags: home-gym
 ---
 
 I've been working out seriously for over 2 years now. I started off doing a bit
