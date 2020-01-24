@@ -90,8 +90,10 @@ defaults:
     type: posts
   values:
     layout: single
+    classes: wide
     author_profile: true
     related: true
+    share: true
 # _pages
 - scope:
     path: "_pages"
