@@ -22,7 +22,7 @@ OK, so the time elapses, and we've got a result - what happens next?
   * _Feeling_: Slightly relieved.
   * _Behavior_: Two possible outcomes:
     1. Clam up even more - we've dodged the bullet so far, so lets take *extra, extra* measures to ensure we don't have to keep ducking bullets.
-    1. Loosen up a bit on our protective measures (going out more, no gloves/mask, etc), even though it's likely those protective measures were the reason we're not sick in the first place.
+    1. Begin seeing friends and family who have also tested negative recently. At large, I can see society starting to loosen up a bit on our protective measures (going out more, no gloves/mask, etc), even though it's likely those protective measures were the reason we're not sick in the first place.
 
 * **All family members positive**
     * _Feeling_: Oh shit. It's real - we have it. Anxiety and fear up 10x. Every little cough or sneeze would bring back a flood of fear. Is it getting worse? Where did we get it? Why aren't we showing symptoms? *How will this effect the baby?!?* An endless set of question resembling the stages of grief.
